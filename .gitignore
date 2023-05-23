@@ -1,0 +1,25 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos gerados pelo pip
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Arquivos gerados pelo coverage
+.coverage
+htmlcov/
+
+# Outros arquivos e pastas que devem ser ignorados
+venv/
+*.log
+
+.vscode
+*.json
+/*.pptx
+view/
+*.jpg
