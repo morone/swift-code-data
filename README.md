@@ -1,3 +1,4 @@
+
 # SWIFT Code Data API
 
 This project provides an API that fetches and returns data associated with a given SWIFT code. It is implemented in Python using Flask and BeautifulSoup for HTML parsing.
@@ -17,26 +18,24 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone this repository:
-\`\`\`
-git clone https://github.com/morone/swift-code-data.git
-\`\`\`
+
+`git clone https://github.com/morone/swift-code-data.git`
+
 
 2. Navigate into the project directory:
-\`\`\`
-cd swift-code-data-api
-\`\`\`
+
+`cd swift-code-data-api`
 
 3. Install the required Python packages:
-\`\`\`
-pip install -r requirements.txt
-\`\`\`
+
+`pip install -r requirements.txt`
 
 ## Running the Application
 
 1. Run the application:
-\`\`\`
-python app.py
-\`\`\`
+
+`python app.py`
+
 
 2. The application will start running on `http://localhost:5000`.
 
