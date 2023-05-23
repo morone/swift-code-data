@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone this repository:
 \`\`\`
-git clone https://github.com/username/swift-code-data-api.git
+git clone https://github.com/morone/swift-code-data.git
 \`\`\`
 
 2. Navigate into the project directory:
@@ -42,7 +42,7 @@ python app.py
 
 ## API Endpoints
 
-- GET `/api/swift_data?swift_code=<SWIFT_CODE>`: Fetches and returns data associated with the given SWIFT code.
+- GET `/api/swift?code=<SWIFT_CODE>`: Fetches and returns data associated with the given SWIFT code.
 
 ## Swagger Documentation
 
